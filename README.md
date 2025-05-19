@@ -26,15 +26,7 @@ This project uses Python and Tkinter to simulate ATM behavior:
 - The session ends after the selected transaction is complete.
 
 
-    ↓
-mini-atm-project/
-│
-├── main.py            # GUI login and main transaction logic
-├── user_data.py       # Stores user credentials
-├── README.md          # Project documentation
-└── requirements.txt   # (Optional, if dependencies are added later)
-
-## How to Run
+--->How to Run
 
 ### 1. Clone the project or download ZIP
 
@@ -74,5 +66,12 @@ Basic transaction operations
 Beginner-friendly Python code structure (DSA-style logic)
 Modular file organization
 
+    ↓
+mini-atm-project/
+│
+├── main.py            # GUI login and main transaction logic
+├── user_data.py       # Stores user credentials
+├── README.md          # Project documentation
+└── requirements.txt   # (Optional, if dependencies are added later)
 
 
